@@ -9,4 +9,4 @@ function alertar(event){
     if(resultado == 0){
         alert("este número é par!");
     }
-}
+} 
